@@ -5,7 +5,7 @@
 Analista Comercial con Licenciatura en Ingeniería Comercial y 2 años de 
 experiencia en análisis de datos, inteligencia de mercado y toma de 
 decisiones basada en datos en el sector retail. En formación continua 
-como Data Analyst a través del bootcamp de TripleTen.
+como Data Analyst a través del bootcamp de TripleTen y IBM.
 
 Me apasiona transformar datos en información estratégica para optimizar 
 decisiones comerciales y de negocio.
@@ -28,6 +28,7 @@ decisiones comerciales y de negocio.
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
 | [🚖 Análisis Zuber Chicago](https://github.com/riverajuan2906-coder/proyecto_zuber_chicago) | EDA y prueba de hipótesis sobre viajes en taxi y clima | Python, Pandas, SciPy |
+| [🛒 Análisis Olist](https://github.com/riverajuan2906-coder/olist-ecommerce-analysis) | Análisis integral de negocio y optimización logística mediante la extracción y procesamiento de datos transaccionales. | SQL (PostgreSQL), Power BI |
 | [🚗 Dashboard Venta de Coches](https://github.com/riverajuan2906-coder/car_sales_repo) | Dashboard interactivo de vehículos usados en EE.UU. | Python, Streamlit, Plotly |
 
 ---
